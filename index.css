@@ -1,3 +1,21 @@
-.green {
-  color: green;
+/*-- Styles--*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color:darkgray
+  background-color: #f4f6f8;
+}
+
+/*-- Nav--*/
+
+<p class="section-label">COMING SOON</p>
